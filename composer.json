@@ -1,15 +1,15 @@
 {
-    "name": "noiselabs/nusoap-bundle",
+    "name": "manoakys/nusoap-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony2 bundle for NuSOAP - SOAP Toolkit for PHP",
-    "keywords": ["soap", "symfony", "noiselabs"],
-    "homepage": "https://github.com/noiselabs/NoiselabsNuSOAPBundle",
+    "description": "Symfony2/3 bundle for NuSOAP - SOAP Toolkit for PHP with PHP 7 support",
+    "keywords": ["soap", "symfony", "noiselabs", "manoakys"],
+    "homepage": "https://github.com/manoakys/NoiselabsNuSOAPBundle",
     "license": "LGPL-3.0",
     "authors": [
         {
-            "name": "Vítor Brandão",
-            "email": "vitor@noiselabs.org",
-            "homepage": "http://noiselabs.org"
+            "name": "Vaidotas Gaidelis",
+            "email": "user@manoakys.lt",
+            "homepage": "https://github.com/manoakys/NoiselabsNuSOAPBundle"
         }
     ],
     "require": {
